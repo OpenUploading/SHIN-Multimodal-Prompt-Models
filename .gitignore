@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.mat
+cache/
+diagnostic*/
+runs/
+outputs/
+.venv/
+.idea/
+.vscode/
+
